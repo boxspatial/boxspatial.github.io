@@ -1,1 +1,0 @@
-import{bF as s,ie as r,ig as t,ih as f,ii as w,i3 as c,bi as a,i4 as m}from"./index-edf1cead.js";const b=new s(r),n=new s(t),o=new s(f);new s(w);function p(i){return i&&(c(i)||a(i,n))?n:i&&(m(i)||a(i,o))?o:b}export{p as c};
