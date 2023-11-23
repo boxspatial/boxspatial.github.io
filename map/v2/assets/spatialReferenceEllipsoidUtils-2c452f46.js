@@ -1,0 +1,1 @@
+import{bG as s,ig as r,ih as t,ii as f,ij as w,i4 as c,bj as a,i5 as m}from"./index-eed032b4.js";const b=new s(r),n=new s(t),o=new s(f);new s(w);function p(i){return i&&(c(i)||a(i,n))?n:i&&(m(i)||a(i,o))?o:b}export{p as c};
